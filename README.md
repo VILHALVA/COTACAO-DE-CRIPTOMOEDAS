@@ -35,7 +35,7 @@ O frontend é composto apenas pelo arquivo `FRONTEND/CODIGO.html`. Ele usa a bib
    npm start
    ```
 
-   - Acesse o aplicativo no navegador visitando [http://localhost:8080](http://localhost:8080).
+   - Veja no Terminal/CMD a cotação sendo atualizada em tempo real.
 
 ## EXECUTANDO O PROJETO - FRONTEND:
    - Basta apenas abrir o arquivo `FRONTEND/CODIGO.html` No navegador de sua preferência.
